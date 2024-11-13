@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexis Sanchez Bucarey 👋
 
-Back-end Developer | Data Engineer | Automation Enthusiast
+Back-end Developer | Full Stack Developer | Automation Enthusiast 
 
 ---
 
