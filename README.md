@@ -19,7 +19,9 @@ Soy un apasionado desarrollador back-end con experiencia en la creación de solu
 **Automatización:** Power Automate, Rocket Bot, Shell Scripts, Crontab
 **Sistemas Operativos:** UNIX, AIX
 
-##Cómo Contactarme
+## Cómo Contactarme
+
+**Telefono:** +56954452146
 
 **Email:** sanchezalexis1994@gmail.com
 
