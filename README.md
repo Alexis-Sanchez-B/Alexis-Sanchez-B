@@ -1,6 +1,6 @@
-####Hola, soy Alexis Andres Sanchez Bucarey 👋
+# Hola, soy Alexis Andres Sanchez Bucarey 👋
 
-Desarrollador Back-End | Desarrollador Full Stack Jr. | Entusiasta de la Automatización
+## Desarrollador Back-End | Desarrollador Full Stack Jr. | Entusiasta de la Automatización
 
 Sobre mí
 Soy un apasionado desarrollador back-end con experiencia en la creación de soluciones eficientes y escalables, así como en la optimización de procesos mediante automatización. Tengo un fuerte enfoque en el desarrollo de APIs RESTful, la integración de datos y la administración de bases de datos. Mi experiencia en retail me ha permitido implementar mejoras operativas significativas que impactan directamente en los resultados del negocio.
