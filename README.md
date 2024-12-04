@@ -1,32 +1,23 @@
-### Hi there, I'm Alexis Sanchez Bucarey 👋
+Hola, soy Alexis Andres Sanchez Bucarey 👋
+Desarrollador Back-End | Desarrollador Full Stack Jr. | Entusiasta de la Automatización
 
-Back-end Developer | Full Stack Developer | Automation Enthusiast 
+Sobre mí
+Soy un apasionado desarrollador back-end con experiencia en la creación de soluciones eficientes y escalables, así como en la optimización de procesos mediante automatización. Tengo un fuerte enfoque en el desarrollo de APIs RESTful, la integración de datos y la administración de bases de datos. Mi experiencia en retail me ha permitido implementar mejoras operativas significativas que impactan directamente en los resultados del negocio.
 
----
+🔍 Intereses: Desarrollo back-end, optimización de bases de datos, integración de APIs y automatización de procesos.
+🌱 Actualmente aprendiendo: Técnicas avanzadas de sincronización de datos, desarrollo de APIs con Node.js y Express.js, y administración de bases de datos NoSQL.
+🤝 Busco colaborar en: Proyectos que impliquen integración de plataformas, sincronización de datos en tiempo real y automatización de tareas críticas.
 
-### About Me
-I'm a passionate back-end developer and data engineer with a strong background in retail data processes and automation. Skilled in building efficient, scalable solutions with Python and database management to streamline workflows and improve business operations. I thrive in collaborative environments and am always eager to learn new technologies to enhance my expertise.
+Habilidades y Tecnologías
+Lenguajes: Python, JavaScript, SQL, PL/SQL
+Frameworks y Librerías: Node.js, Express.js, Django REST Framework
+Bases de Datos: SQL Server, Oracle, MySQL, PostgreSQL, MongoDB
+Herramientas y Plataformas: Git, Postman, Thunder Client, Power BI
+Automatización: Power Automate, Rocket Bot, Shell Scripts, Crontab
+Sistemas Operativos: UNIX, AIX
+Cómo Contactarme
+LinkedIn
+Email: sanchezalexis1994@gmail.com
+⚡ Dato curioso: Me encanta encontrar formas de automatizar tareas repetitivas para optimizar tiempo y mejorar la productividad tanto personal como empresarial.
 
-- 🔍 **Interests**: Back-end development, database optimization, API integration, and process automation.
-- 🌱 **Currently Learning**: Advanced **Python** programming, **Django**, **API development**, and **database synchronization** techniques.
-- 🤝 **Looking to Collaborate**: On projects that involve **data synchronization**, **API development**, and improving operational efficiency through automation.
-
----
-
-### Skills & Technologies
-
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: Django, Express.js
-- **Database Management**: MySQL, MongoDB, SQL Server, Oracle, Pl Sql
-- **Tools & Platforms**: Git, Power BI, Power Automate
-- **Automation**: Shell scripting, Rocketbot
-
----
-
-### Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/alexis-sanchez-bucarey-89a565313/)
-- **Email**: sanchezalexis1994@gmail.com
-
----
-
-⚡ **Fun Fact**: I enjoy automating everyday tasks with Python to make workflows more efficient and reliable.
+¡Gracias por visitar mi perfil! 😊
